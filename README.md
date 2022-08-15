@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elsokka 
+- 👋 Hi, I’m @El_sokka 
 - 👀 I’m interested in tech companies
 - 🌱 I’m currently learning programming.
 
