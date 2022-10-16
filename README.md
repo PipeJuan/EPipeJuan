@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @El_sokka 
+- 👋 Hi, I’m Felipe Ortega 
 - 👀 I’m interested in tech companies
 - 🌱 I’m currently learning programming.
 
